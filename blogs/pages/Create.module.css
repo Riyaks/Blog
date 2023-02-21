@@ -1,0 +1,35 @@
+.one{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.two{
+    width: 450px;
+    height: 550px;
+    background-color: black;
+    margin-top: 80px;
+    display: block;
+    margin-left: 800px;
+    border-radius: 15px;
+   
+}
+.four{
+    color: white;
+    margin-top: 10px;
+    font-family: robosto;
+    font-size:23px ;
+}
+.csub:hover{
+    color: blue;
+}
+.back{
+    background-image: url(https://img.freepik.com/free-photo/top-view-person-writing-laptop-with-copy-space_23-2148708035.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+.hlo{
+    color: red;
+}
